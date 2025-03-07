@@ -1,0 +1,224 @@
+{
+  "vaultName": "UNI - Pedagogia",
+  "lastExport": 1741365671906,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "F. Antropológicos/RESUMO - A FORMAÇÃO DO SELF E A DEPENDÊNCIA AFETIVA.md",
+    "F. Antropológicos/Resumo - O normal e o patológico - GEORGES CANGUILHEM.md",
+    "F. Antropológicos/Resumo de Nise - O coração da loucura - 2015.md",
+    "Imagens!/Binarismo de gênero.png",
+    "Imagens!/Ciclo de exclusão - diversidade.png",
+    "Imagens!/Executivo-Judiciário-Legislativo.png",
+    "Imagens!/Jujuba cansada.png",
+    "Imagens!/Pirâmide de necessidades humanas.png",
+    "POEB/Da doutrinação marxista à ideologia de gênero - Escola Sem Partido e as leis da mordaça no parlamento brasileiro..md",
+    "POEB/Educação e controle de constitucionalidade - O projeto escola livre em Alagoas.md",
+    "POEB/Questões POEB - Escola sem Partido.md",
+    "PPP - 2/Gênero e sexualidade - pedagogias contemporâneas - Guacira Lopes Louro..md",
+    "PPP - 2/Juventudes, sexualidade e diversidade..md",
+    "Bem-vinde.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/6155340132a851f6089e.svg"
+  ],
+  "fileInfo": {
+    "F. Antropológicos/RESUMO - A FORMAÇÃO DO SELF E A DEPENDÊNCIA AFETIVA.md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 9483,
+      "exportedPath": "F. Antropológicos/RESUMO - A FORMAÇÃO DO SELF E A DEPENDÊNCIA AFETIVA.html",
+      "dependencies": []
+    },
+    "F. Antropológicos/Resumo - O normal e o patológico - GEORGES CANGUILHEM.md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 4014,
+      "exportedPath": "F. Antropológicos/Resumo - O normal e o patológico - GEORGES CANGUILHEM.html",
+      "dependencies": []
+    },
+    "F. Antropológicos/Resumo de Nise - O coração da loucura - 2015.md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 4448,
+      "exportedPath": "F. Antropológicos/Resumo de Nise - O coração da loucura - 2015.html",
+      "dependencies": []
+    },
+    "Imagens!/Binarismo de gênero.png": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 60941,
+      "exportedPath": "Imagens!/Binarismo de gênero.png",
+      "dependencies": []
+    },
+    "Imagens!/Ciclo de exclusão - diversidade.png": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 35760,
+      "exportedPath": "Imagens!/Ciclo de exclusão - diversidade.png",
+      "dependencies": []
+    },
+    "Imagens!/Executivo-Judiciário-Legislativo.png": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 183060,
+      "exportedPath": "Imagens!/Executivo-Judiciário-Legislativo.png",
+      "dependencies": []
+    },
+    "Imagens!/Jujuba cansada.png": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 206288,
+      "exportedPath": "Imagens!/Jujuba cansada.png",
+      "dependencies": []
+    },
+    "Imagens!/Pirâmide de necessidades humanas.png": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 734417,
+      "exportedPath": "Imagens!/Pirâmide de necessidades humanas.png",
+      "dependencies": []
+    },
+    "POEB/Da doutrinação marxista à ideologia de gênero - Escola Sem Partido e as leis da mordaça no parlamento brasileiro..md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 7938,
+      "exportedPath": "POEB/Da doutrinação marxista à ideologia de gênero - Escola Sem Partido e as leis da mordaça no parlamento brasileiro..html",
+      "dependencies": []
+    },
+    "POEB/Educação e controle de constitucionalidade - O projeto escola livre em Alagoas.md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 7753,
+      "exportedPath": "POEB/Educação e controle de constitucionalidade - O projeto escola livre em Alagoas.html",
+      "dependencies": []
+    },
+    "POEB/Questões POEB - Escola sem Partido.md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 2756,
+      "exportedPath": "POEB/Questões POEB - Escola sem Partido.html",
+      "dependencies": []
+    },
+    "PPP - 2/Gênero e sexualidade - pedagogias contemporâneas - Guacira Lopes Louro..md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 4653,
+      "exportedPath": "PPP - 2/Gênero e sexualidade - pedagogias contemporâneas - Guacira Lopes Louro..html",
+      "dependencies": []
+    },
+    "PPP - 2/Juventudes, sexualidade e diversidade..md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 2229,
+      "exportedPath": "PPP - 2/Juventudes, sexualidade e diversidade..html",
+      "dependencies": []
+    },
+    "Bem-vinde.md": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 249,
+      "exportedPath": "Bem-vinde.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/6155340132a851f6089e.svg": {
+      "modifiedTime": 1741365671906,
+      "sourceSize": 315,
+      "exportedPath": "lib/media/6155340132a851f6089e.svg",
+      "dependencies": []
+    }
+  }
+}
